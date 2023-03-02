@@ -5,7 +5,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/near/boilerplate-template/main/docs/images/pagoda_logo_dark.png">
       <img alt="" src="https://raw.githubusercontent.com/near/boilerplate-template/main/docs/images/pagoda_logo_dark.png">
     </picture>
-  </a>
+  </a> 
 </h1>
 
 <div align="center">
